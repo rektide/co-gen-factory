@@ -1,9 +1,8 @@
-
 {
 	"name": "co-gen-factory",
 	"version": "1.0.0",
 	"description": "A Co Factory pattern powered by an infinite Generator sequence", 
-	"keywords": ["co", "factory", "generator", "infinite", "factorymethod", "memoize", "memoization", "memoizee"]
+	"keywords": ["co", "factory", "generator", "infinite", "factorymethod", "memoize", "memoization", "memoizee"],
 	"main": "co-gen-factory.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
