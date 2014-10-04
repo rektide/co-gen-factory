@@ -1,0 +1,25 @@
+
+{
+	"name": "co-gen-factory",
+	"version": "1.0.0",
+	"description": "A Co Factory pattern powered by an infinite Generator sequence", 
+	"keywords": ["co", "factory", "generator", "infinite", "factorymethod", "memoize", "memoization", "memoizee"]
+	"main": "co-gen-factory.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "rektide de la faye",
+	"license": "X",
+	"dependencies": {
+		"co": "^3.1.0",
+		"memoizee": "^0.3.7"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rektide/co-gen-factory"
+	},
+	"bugs": {
+		"url": "https://github.com/rektide/co-gen-factory/issues"
+	},
+	"homepage": "https://github.com/rektide/co-gen-factory"
+}
